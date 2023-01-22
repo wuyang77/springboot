@@ -1,0 +1,32 @@
+{
+  "groups": [
+    {
+      "name": "spring.jdbc.datasource",
+      "type": "com.atguigu.autoconfig.DataSourceProperties",
+      "sourceType": "com.atguigu.autoconfig.DataSourceProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "spring.jdbc.datasource.driver-class-name",
+      "type": "java.lang.String",
+      "sourceType": "com.atguigu.autoconfig.DataSourceProperties"
+    },
+    {
+      "name": "spring.jdbc.datasource.password",
+      "type": "java.lang.String",
+      "sourceType": "com.atguigu.autoconfig.DataSourceProperties"
+    },
+    {
+      "name": "spring.jdbc.datasource.url",
+      "type": "java.lang.String",
+      "sourceType": "com.atguigu.autoconfig.DataSourceProperties"
+    },
+    {
+      "name": "spring.jdbc.datasource.username",
+      "type": "java.lang.String",
+      "sourceType": "com.atguigu.autoconfig.DataSourceProperties"
+    }
+  ],
+  "hints": []
+}

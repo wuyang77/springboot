@@ -1,0 +1,3 @@
+com\atguigu\entities\User.class
+com\atguigu\controller\UserController.class
+com\atguigu\SpringBootMVCApplication.class
